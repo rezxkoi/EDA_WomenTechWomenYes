@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//appointlet.com//Appointlet//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:Project Check-In w/Rita Biagioli
+DTSTART;VALUE=DATE-TIME:20210908T214000Z
+DTEND;VALUE=DATE-TIME:20210908T215500Z
+UID:9355807
+CREATED;VALUE=DATE-TIME:20210908T175608Z
+DESCRIPTION:--- Meeting Location ---\nhttps://metis-liveonline-2021.appoin
+ tlet.com/booking/K8RJWHYk/conference\n\n--- Cancel/Reschedule ---\nhttps:/
+ /metis-liveonline-2021.appointlet.com/booking/K8RJWHYk\n\n--- Meeting type
+  ---\nProject Check-In - What progress have you made? Is anything blocking
+  your progress? What are you planning to do next?\n\n--- Metis ---\nRita B
+ iagioli - Metis instructor\n\n--- Your Information ---\nEmail: khoeilar@gm
+ ail.com\nName: Amir R khoeilar\nReason for Meeting: Project Proposal\nGene
+ ral Questions
+LOCATION:https://metis-liveonline-2021.appointlet.com/booking/K8RJWHYk/con
+ ference
+ORGANIZER;CN="Meet with the Metis Team":notifications@appointlet.com
+URL:https://metis-liveonline-2021.appointlet.com/booking/K8RJWHYk
+END:VEVENT
+END:VCALENDAR
